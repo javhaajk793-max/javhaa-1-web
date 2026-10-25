@@ -1,0 +1,6 @@
+{
+  "name": "Жавхаа - 13 настай Хөгжүүлэгчийн Portfolio",
+  "description": "14 настай залуу вэб сонирхогч Жавхаагийн хувийн танилцуулга болон Netlify бүтээлүүдийн портфолио вэб сайт.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
